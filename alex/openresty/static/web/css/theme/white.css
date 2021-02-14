@@ -1,0 +1,88 @@
+/* 字体颜色,.导航选中颜色 */
+.white .theme-font-color,.white .modelActive{ color: #d86557 !important; }
+/* 传统页面二级导航 */
+.white .modelActive2{ color: #d86557 !important; font-weight: 500 !important; }
+/* 牛牛, 百家乐时间 */
+.white .theme-font-color5{ color: #d86557 !important; }
+/* 普通彩种时间 */
+.white .theme-font-color4{ color: #d86557 !important; }
+/* 期数 */
+.white .theme-font-color3{ color: #404040 !important; }
+.white .theme-font-color2{ color: #d86557 !important; }
+/* 背景颜色 */
+.white .theme-backgound{ background: #d86557 !important; color: #f8e2df !important; }
+/* 边框颜色 */
+.white .theme-border-color{ border-color: #d86557 !important; }
+
+/* 传统官方选择按钮 */
+.white .middel_model>.models{
+  border: 1px solid #D86557 !important; color: #D86557 !important;
+}
+
+/* 开奖历史号码颜色 */
+.white .ssc .col_code,.white .syx5 .col_code,.white .sfc .col_code,
+.white .xy28 .col_code,.white .keno .col_code,.white .pl3 .col_code,
+.white .col_random_other .other_ball{ background: #d86557 !important; }
+
+/* 官方球颜色 */
+.white .ball{ color: #9D9C9C !important; }
+/* 号码样式 */
+.white .inner_right_box .inner_betNum,.white .inner_box .inner_betNum{ color: #939292 !important; }
+.white .inner_right_box .inner_betNum.pk10_betNum,.white .inner_box .inner_betNum.pk10_betNum{ color: #fff !important; }
+/* lhc号码样式 */
+.white .inner_right_box_lhc .inner_betNum,.white .inner_box_lhc .inner_betNum{ color: #939292; }
+/* 传统页面odd颜色 */
+.white .inner_odd{ color: #939292; }
+/* 投注页面选中样式 */
+.white .activeBox{ border: 1px solid #d86557!important; background: #f4dcd8 !important; color: #d86557 !important; }
+.white .activeBox .inner_betNum{ color: #d86557 !important; }
+.white .activeBox .inner_odd{ color: #939292 !important; }
+
+/* 投注按钮 */
+.white .betting{ background: #D86557; color: #fff; }
+.white .betting i{ color: #fff !important; } 
+/* 重置按钮 */
+.white .reset{ background: #EBEBEB !important; color: #939292 !important; border-color: #EBEBEB !important; }
+
+/* 冷热,遗漏,随机,按下键盘 */
+.white .activeBtn{ background: #D86557 !important; color: #fff !important; }
+
+/* 侧边栏选中样式 */
+.white .activeModel{ background: #D86557 !important; }
+.white .activeModel i,.white .activeModel div{ color: #fff !important; }
+
+/* 半波 一肖 特肖 合肖 连肖 尾数连 选中样式 */
+.white .lhc_oneZodiac_lhc_one_zodiac_active,
+.white .lhc_specialZodiac_special_zodiac_active,
+.white .lhc_sumZodiac_lhc_sum_zodiac_active,
+.white .lhc_linkZodiac_lhc_two_zodiac_link_active,
+.white .lhc_linkMantissa_lhc_two_mantissa_link_active{ border: 1px solid #F45347 !important; background: #F4DCD8 !important; }
+.white .lhc_oneZodiac_lhc_one_zodiac_active .inner_betNum,
+.white .lhc_specialZodiac_special_zodiac_active .inner_betNum,
+.white .lhc_sumZodiac_lhc_sum_zodiac_active .inner_betNum,
+.white .lhc_linkZodiac_lhc_two_zodiac_link_active .inner_betNum,
+.white .lhc_linkMantissa_lhc_two_mantissa_link_active .inner_betNum{ color: #F45347 !important; }
+.white .lhc_oneZodiac_lhc_one_zodiac_active .inner_odd,
+.white .lhc_specialZodiac_special_zodiac_active .inner_odd,
+.white .lhc_sumZodiac_lhc_sum_zodiac_active .inner_odd,
+.white .lhc_linkZodiac_lhc_two_zodiac_link_active .inner_odd,
+.white .lhc_linkMantissa_lhc_two_mantissa_link_active .inner_odd{ color: #88aded !important; }
+.white .lhc_halfWave_red_active{ border: 1px solid #E3513F !important; background: #F4DCD8 !important; }
+.white .lhc_halfWave_white_active{ border: 1px solid #2196F3 !important; background: #DAE9F5 !important; }
+.white .lhc_halfWave_green_active{ border: 1px solid #20bf27 !important; background: #DAF5DB !important; }
+.white .lhc_halfWave_red_active .inner_betNum{ color: #E3513F !important; }
+.white .lhc_halfWave_white_active .inner_betNum{ color: #2196F3 !important; }
+.white .lhc_halfWave_green_active .inner_betNum{ color: #20bf27 !important; }
+
+.white .history-xy28-n0,.white .history-xy28-n13,.white .history-xy28-n14,.white .history-xy28-n27{
+  background-image: linear-gradient(0deg, #7b7b7b 0%, #d7d7d7 100%) !important;
+}
+.white .history-xy28-n1,.white .history-xy28-n4,.white .history-xy28-n7,.white .history-xy28-n10,.white .history-xy28-n16,.white .history-xy28-n19,.white .history-xy28-n22,.white .history-xy28-n25{
+  background-image: linear-gradient(0deg, #04c230 0%, #5af594 100%) !important;
+}
+.white .history-xy28-n2,.white .history-xy28-n5,.white .history-xy28-n8,.white .history-xy28-n11,.white .history-xy28-n17,.white .history-xy28-n20,.white .history-xy28-n23,.white .history-xy28-n26{
+  background-image: linear-gradient(0deg, #0085d1 0%, #96c2ff 100%) !important;
+}
+.white .history-xy28-n3,.white .history-xy28-n6,.white .history-xy28-n9,.white .history-xy28-n12,.white .history-xy28-n15,.white .history-xy28-n18,.white .history-xy28-n21,.white .history-xy28-n24{
+  background-image: linear-gradient(0deg, #d4311d 0%, #fa8475 100%) !important;
+}

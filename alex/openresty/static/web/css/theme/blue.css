@@ -1,0 +1,140 @@
+/* 字体颜色,.导航选中颜色 */
+.blue .theme-font-color,.blue .modelActive{ color: #5C8FE6 !important; }
+/* 传统页面二级导航 */
+.blue .modelActive2{ color: #5C8FE6 !important; font-weight: 500 !important; }
+/* 牛牛, 百家乐时间 */
+.blue .theme-font-color5{ color: #ff7f00 !important; }
+/* 普通彩种时间 */
+.blue .theme-font-color4{ color: #ee604e !important; }
+/* 期数 */
+.blue .theme-font-color3,.blue .theme-font-color2{ color: #818181 !important; }
+/* 背景颜色 */
+.blue .theme-backgound{ background: #3C67B1 !important; color: #fff !important; }
+/* 边框颜色 */
+.blue .theme-border-color{ border-color: #3C67B1 !important; }
+
+/* 页面header背景色 */
+.blue #view_header{ background: #3A63AA !important; }
+.blue #view_header .middle_title{ color: #fff !important; }
+.blue #view_header .left_icon .iconfont,.blue #view_header .right_icon .iconfont{ color: #fff !important; }
+
+/* 传统官方选择按钮 */
+.blue .middel_model>.models{
+  border: 1px solid #fff !important; color: #fff !important;
+  background-image: linear-gradient(0deg, #3a63aa 0%, #7ea8f0 100%) !important;
+}
+
+/* 小助手样式 */
+.blue .bottom_assistant{ background: #fff !important; }
+
+/* 开奖历史号码颜色 */
+/* 开奖历史号码颜色 */
+.blue .ssc .col_code,.blue .syx5 .col_code,.blue .sfc .col_code,
+.blue .xy28 .col_code,.blue .keno .col_code,.blue .pl3 .col_code,
+.blue .col_random_other .other_ball{ background-image: linear-gradient(0deg, #3a63aa 0%, #7ea8f0 100%); }
+/* 开奖历史查看更多 */
+.blue .more_btn{ color: #5C8FE6 !important; }
+
+/* 官方球颜色 */
+.blue .ball{ color: #9D9C9C !important; }
+/* 号码样式 */
+.blue .inner_right_box .inner_betNum,.blue .inner_box .inner_betNum{ color: #939292 !important; }
+.blue .inner_right_box .inner_betNum.pk10_betNum,.blue .inner_box .inner_betNum.pk10_betNum{ color: #fff !important; }
+/* lhc号码样式 */
+.blue .inner_right_box_lhc .inner_betNum,.blue .inner_box_lhc .inner_betNum{ color: #939292; }
+/* 传统页面odd颜色 */
+.blue .inner_odd{ color: #c2c2c2; }
+/* 传统页面 号码边框 */
+.blue .inner_box,.blue .inner_right_box{ border-color: #ebebeb !important; }
+/* 投注页面选中样式 */
+.blue .activeBox{ border: 1px solid #9ebdf4!important; background: #eef4ff !important; color: #5c8fe6 !important; }
+.blue .activeBox .inner_betNum{ color: #5c8fe6 !important; }
+.blue .activeBox .inner_odd{ color: #88aded !important; }
+
+/* 投注按钮 */
+.blue .betting{ background: #3C67B1; color: #fff; }
+.blue .betting i{ color: #fff !important; } 
+/* 重置按钮 */
+.blue .reset{ background: #aaa !important; color: #fff !important; border-color: #aaa !important; }
+
+/* 冷热,遗漏,随机,按下键盘 */
+.blue .activeBtn{ background: #3C67B1 !important; color: #fff !important; }
+
+/* 侧边栏选中样式 */
+.blue .activeModel{ background: #3C67B1 !important; }
+.blue .activeModel i,.blue .activeModel div{ color: #fff !important; }
+
+/* 投注记录-历史已结  资金帐变 的图标 */
+.blue .billChange_wrap .inner_box_title .img_wrap,
+.blue .historyCheck_main .main_title .img_wrap{
+  background: url('../../images/bet/calendar1.png') no-repeat !important;
+}
+
+/* 半波 一肖 特肖 合肖 连肖 尾数连 选中样式 */
+.blue .lhc_oneZodiac_lhc_one_zodiac_active,
+.blue .lhc_specialZodiac_special_zodiac_active,
+.blue .lhc_sumZodiac_lhc_sum_zodiac_active,
+.blue .lhc_linkZodiac_lhc_two_zodiac_link_active,
+.blue .lhc_linkMantissa_lhc_two_mantissa_link_active{ border: 2px solid #9ebdf4 !important; background: #eef4ff !important; }
+.blue .lhc_oneZodiac_lhc_one_zodiac_active .inner_betNum,
+.blue .lhc_specialZodiac_special_zodiac_active .inner_betNum,
+.blue .lhc_sumZodiac_lhc_sum_zodiac_active .inner_betNum,
+.blue .lhc_linkZodiac_lhc_two_zodiac_link_active .inner_betNum,
+.blue .lhc_linkMantissa_lhc_two_mantissa_link_active .inner_betNum{ color: #5c8fe6 !important; }
+.blue .lhc_oneZodiac_lhc_one_zodiac_active .inner_odd,
+.blue .lhc_specialZodiac_special_zodiac_active .inner_odd,
+.blue .lhc_sumZodiac_lhc_sum_zodiac_active .inner_odd,
+.blue .lhc_linkZodiac_lhc_two_zodiac_link_active .inner_odd,
+.blue .lhc_linkMantissa_lhc_two_mantissa_link_active .inner_odd{ color: #88aded !important; }
+.blue .lhc_halfWave_red_active{ border: 2px solid #E3513F !important; background: #F4DCD8 !important; }
+.blue .lhc_halfWave_blue_active{ border: 2px solid #2196F3 !important; background: #DAE9F5 !important; }
+.blue .lhc_halfWave_green_active{ border: 2px solid #20bf27 !important; background: #DAF5DB !important; }
+.blue .lhc_halfWave_red_active .inner_betNum{ color: #E3513F !important; }
+.blue .lhc_halfWave_blue_active .inner_betNum{ color: #2196F3 !important; }
+.blue .lhc_halfWave_green_active .inner_betNum{ color: #20bf27 !important; }
+
+.blue .history-xy28-n0,.blue .history-xy28-n13,.blue .history-xy28-n14,.blue .history-xy28-n27{
+  background-image: linear-gradient(0deg, #7b7b7b 0%, #d7d7d7 100%) !important;
+}
+.blue .history-xy28-n1,.blue .history-xy28-n4,.blue .history-xy28-n7,.blue .history-xy28-n10,.blue .history-xy28-n16,.blue .history-xy28-n19,.blue .history-xy28-n22,.blue .history-xy28-n25{
+  background-image: linear-gradient(0deg, #04c230 0%, #5af594 100%) !important;
+}
+.blue .history-xy28-n2,.blue .history-xy28-n5,.blue .history-xy28-n8,.blue .history-xy28-n11,.blue .history-xy28-n17,.blue .history-xy28-n20,.blue .history-xy28-n23,.blue .history-xy28-n26{
+  background-image: linear-gradient(0deg, #0085d1 0%, #96c2ff 100%) !important;
+}
+.blue .history-xy28-n3,.blue .history-xy28-n6,.blue .history-xy28-n9,.blue .history-xy28-n12,.blue .history-xy28-n15,.blue .history-xy28-n18,.blue .history-xy28-n21,.blue .history-xy28-n24{
+  background-image: linear-gradient(0deg, #d4311d 0%, #fa8475 100%) !important;
+}
+
+/* 牛牛 */
+.blue .nn_active{ border: 2px solid #9ebdf4!important; background: #eef4ff !important; }
+/* 百家乐 */
+.blue .bjl_wrap .flickerBg{ background: #779DDF !important; }
+.blue .bjl_wrap .xian_box .box_img span{ color: #56B5FE !important; }
+.blue .bjl_wrap .he_box .box_img span{ color: #37DC71 !important; }
+.blue .bjl_wrap .zhuang_box .box_img span{ color: #FF8383 !important; }
+.blue .bjl_wrap .askTheWay_total .total_top div:nth-child(1){ color: #4BB1FF !important; }
+.blue .bjl_wrap .askTheWay_total .total_top div:nth-child(2){ color: #FF8989 !important; }
+.blue .bjl_wrap .askTheWay_total .total_top div:nth-child(3){ color: #37D66F !important; }
+.blue .bjl_wrap .askTheWay_total .total_top div:nth-child(4){ color: #FFA84B !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .ball-red{border-color:#FF8989 !important; background-color:#FF8989 !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .ball-blue{border-color:#4BB1FF !important; background-color:#4BB1FF !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .ball-green{border-color:#2BDF6A !important; background-color:#2BDF6A !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .circle-red{border-color: #FF8989 !important; background-color:#fff !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .circle-blue{border-color: #4BB1FF !important; background-color:#fff !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .right_box .other_map.xiaolu_map .ball-red{ background:#FF8989 !important; }
+.blue .bjl_wrap .bjl_askTheWay_wrap .right_box .other_map.xiaolu_map .ball-blue{ background:#4BB1FF !important; }
+.blue .bjl_wrap .flickerInfinite{
+  animation:flickerBlue .5s ease-in-out infinite !important;
+  -webkit-animation:flickerBlue .5s ease-in-out infinite !important;
+}
+@keyframes flickerBlue {
+  from { background-color: #779DDF; }
+  50% { background-color: transparent; }
+  to { background-color: #779DDF; }
+}
+@-webkit-keyframes flickerBlue {
+  from { background-color: #779DDF; }
+  50% { background-color: transparent; }
+  to { background-color: #779DDF; }
+}

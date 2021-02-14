@@ -1,0 +1,785 @@
+/**
+* rgb颜色： #3e4b82  #282f49     16进制颜色 color: #3e4b82 !important  rgba (62, 75, 130)
+*/
+.reply-wrapper .selectedBox .reply{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.reply-wrapper .replyBox span{
+  color: #3e4b82 !important
+}
+.reply-wrapper .info span, .reply-wrapper .cont span{
+  color: #3e4b82 !important
+}
+.detail-wrapper .selectedBox .reply{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.email-wrapper .selectedBox .all{
+  color: #3e4b82 !important
+}
+.email-wrapper .selectedBox .deleted{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.weui-tabbar.footer-bar .weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon, .weui-tabbar.footer-bar .weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon > i, .weui-tabbar.footer-bar .weui-tabbar__item.weui-bar__item_on .weui-tabbar__label{
+  color: #3e4b82 !important
+}
+.vux-tab-ink-bar:before{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.header{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.icon.icon-notice{
+  color: #3e4b82 !important;
+}
+.lo-more{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+#home-footer .icon-hall-selected{
+  color: #3e4b82 !important;
+}
+#home-footer .icon-award-selected{
+  color: #3e4b82 !important;
+}
+#home-footer .icon-bet-selected{
+  color: #3e4b82 !important;
+}
+#home-footer .icon-mine-selected{
+  color: #3e4b82 !important;
+}
+.award-wrapper .lottery-list li .mid-a .ball-orange{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.award-wrapper .lottery-list li .mid-a .keno{
+  color: #3e4b82 !important;
+}
+.betrecord-wrapper .color-theme{
+  color: #3e4b82 !important;
+}
+.day-year .icon-date{
+  color: #3e4b82 !important;
+}
+.betrecord-wrapper .content-wrap .betrecordtable-tab .betrecordtable-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.betrecord-wrapper .content-wrap .betrecordtable-tab .vux-tab-ink-bar{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.mine-wrapper .top-area .lef .user-level .u-l{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.mine-wrapper .top-area .rif .zhye_money{
+  color: #3e4b82 !important;
+}
+.userAccount-wrapper .btn-wrap .btn-logout{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.editusername-wrapper .btn-wrap .btn-ok, .editrealname-wrapper .btn-wrap .btn-ok{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.editpassword-wrapper .btn-wrap .btn-ok{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.editpassword-wrapper .btn-wrap .forget-pas{
+  color: #3e4b82 !important;
+}
+.award-detail-wrapper footer{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.award-detail-wrapper footer .btn-bet{
+  color: #3e4b82 !important;
+}
+.award-detail-wrapper .bet-detail-list li .theme-color{
+  color: #3e4b82 !important;
+}
+.award-detail-wrapper .bet-detail-list li .ball, .award-detail-wrapper .bet-detail-list li .dice, .award-detail-wrapper .bet-detail-list li .pk10_num, .award-detail-wrapper .bet-detail-list li .kl8_num, .award-detail-wrapper .bet-detail-list li .lhc{
+  color: #3e4b82 !important;
+}
+.recharge-wrapper .recharge-tab .vux-button-tab-item.vux-button-group-current{
+  color: #3e4b82 !important;;
+  border-color: #3e4b82 !important;
+}
+.deposit-wrapper .pay_type .pay_type_list .pay_type_item_w .pay_type_item svg[type='ios-checkmark'].vux-x-icon{
+  fill: #3e4b82 !important;
+}
+.deposit-wrapper .pay_type .pay_type_list .pay_type_item_w .pay_type_item.cur{
+  border-color: #3e4b82 !important;
+}
+.deposit-wrapper .btn-wrap .btn-next{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.deposit-wrapper .pay_mone input{
+  color: #3e4b82 !important;
+}
+.deposit-wrapper .conv_mone .conv_mone_w .conv_mone_item.active{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.login-wrap .btn-wrap .btn.btn-login{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.lottery-wrap .bet-data-switch-tab .data-switch-tab .btn-random{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.lottery-wrap .bet-data-switch-tab .icon-wallet{
+  color: #3e4b82 !important;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab .vux-tab-item.vux-tab-selected i{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+/* .xin-wrapper .xin-bet-box .rightBox .vux-button-group .vux-button-group-current{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+} */
+.v1a-move{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.lottery-wrap .topDropdown .betType{
+  color: #3e4b82 !important;
+}
+.themes-color{
+  color: #3e4b82 !important;
+}
+.award-detail-wrapper .bet-detail-list li.latest .ball{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  color: #fff !important;
+}
+.mine-wrapper .row2 .t-warn{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.vux-popup-header-right{
+  color: #3e4b82 !important;
+}
+.accountCenter-wrapper .openBox .open{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.accountCenter-wrapper .open-tab .tab.active{
+  color: #3e4b82 !important;
+  border-bottom: 3px solid #3e4b82 !important;
+}
+.team-wrapper .team-info .top p font{
+  color: #3e4b82 !important;
+}
+.team-wrapper .team-info .vux-table tr:nth-child(even) td{
+  color: #3e4b82 !important;
+}
+.team-wrapper .team-info .top p font{
+  color: #3e4b82 !important;
+}
+.team-wrapper .time-tab .vux-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.team-wrapper .time-tab .vux-tab-bar-inner{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.inline-calendar td.current > span.vux-calendar-each-date{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.inline-calendar .vux-prev-icon, .inline-calendar .vux-next-icon{
+  border-color: #3e4b82 !important;
+}
+.roadmap-wrapper.roadmap .roadmap .award-record p span.ball{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.roadmap-wrapper.roadmap .roadmap .rel-box .group-2 .slide .lis-item-selected{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.withdraw-wrap .btn-wrap .btn-withdraw{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.withdraw-wrap .cus-group .withdraw-btn{
+  color: #3e4b82 !important;
+}
+.row .color-theme{
+  color: #3e4b82 !important;
+}
+.data-lis .color-theme{
+  color: #3e4b82 !important;
+}
+.promo-wrapper .promo-list .tit{
+  color: #3e4b82 !important;
+}
+.drawer-lotto .d-tit{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.drawer-lotto .drawer-lotto-detail-list .lotto-item .lotto-link.cur{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.drawer-lotto .drawer-side-list .lotto-wrap .lotto-item.cur{
+  border-color: rgba(62, 75, 130, .3) !important;
+}
+.lottery-wrap .bet-data-switch-tab .data-switch-tab .tab-btn.cur:before{
+  border-left: 1px solid #3e4b82 !important;
+  border-bottom: 1px solid #3e4b82 !important;
+}
+#lengReWrap .v1r-selectheat-lengre-active{
+  color: #3e4b82 !important;
+  border-color: #3e4b82 !important;
+}
+.sanjiao{
+  border-color: transparent transparent #3e4b82 transparent !important;
+}
+.types{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.xin-wrapper .bottomBetbox .mid .btn-2{
+  background:  #3e4b82 !important;
+}
+.xin-wrapper .bottomBetbox .mid .btn-1 .vux-x-switch .weui-switch:after{
+  color: #3e4b82 !important;
+}
+.my-dialog .weui-dialog .diaTitle{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.my-dialog .weui-dialog .btn.cancel{
+  color: #3e4b82 !important;
+}
+.my-dialog .weui-dialog .btn.confirm{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.confirm-wrapper .time font{
+  color: #3e4b82 !important;
+}
+.confirm-wrapper .tit .icon-wallet{
+  color: #3e4b82 !important;
+}
+.confirm-wrapper .list-box li .center p{
+  color: #3e4b82 !important;
+}
+.confirm-wrapper .footer b{
+  color: #3e4b82 !important;
+}
+.confirm-wrapper .footer .link{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  box-shadow: 0 6px 3px rgba(62, 75, 130, 0.3) !important;
+}
+.betConfirm b{
+  color: #3e4b82 !important;
+}
+.betConfirm button.btn-ok{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  border-color: #3e4b82 !important;
+  box-shadow: 0 3px 3px rgba(62, 75, 130, 0.2) !important;
+}
+.result-wrapper .footer .link{
+  color: #3e4b82 !important;
+}
+.result-wrapper .footer .link.link-2{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  color: #fff !important;
+}
+.lottery-wrap .betTypeTabContent .betType .betExtType .betExt a.cur{
+  border-color: #3e4b82 !important;
+  color: #3e4b82 !important
+}
+.lottery-wrap .betRecordTable .theme-color{
+  color: #3e4b82 !important;
+}
+.kl8-wrapper.lottery-wrap .theme-color{
+  color: #3e4b82 !important;
+}
+.gamerecord-wrapper .color-theme{
+  color: #3e4b82 !important
+}
+.billdetail-record-wrapper .content-wrap .betrecordtable-tab .betrecordtable-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.billdetail-record-wrapper .content-wrap .betrecordtable-tab .vux-tab-ink-bar{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.billdetail-record-wrapper .color-blue{
+  color: #3e4b82 !important;
+}
+.email-wrapper .header-tab .vux-tab .vux-tab-item{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.email-wrapper .header-tab .vux-tab .vux-tab-item.vux-tab-selected{
+  background: #fff !important;
+  color: #3e4b82 !important;
+}
+.email-wrapper .cont-tab .item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.email-wrapper .cont-tab .vux-tab-ink-bar{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.detail-wrapper li font{
+  color: #3e4b82 !important;
+}
+.manage-wrapper .time-tab .vux-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.manage-wrapper .time-tab .vux-tab-bar-inner{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.weui-dialog__btn_primary{
+  color: #3e4b82 !important;
+}
+.register-wrap .btn-wrap .btn.btn-register{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.recharge-record-wrapper .content-wrap .betrecordtable-tab .betrecordtable-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.recharge-record-wrapper .content-wrap .betrecordtable-tab .vux-tab-ink-bar{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.recharge-record-wrapper .color-theme{
+  color: #3e4b82 !important;
+}
+.feedback-wrapper .content-wrap .list-yj > li .list-yj-sb > li{
+  color: #3e4b82 !important;
+}
+.lhc-wrapper .theme-color{
+  color: #3e4b82 !important;
+}
+.lottery-wrap .bet-area .bet-h .bet-h-p{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.lottery-wrap .bet-area .bet-h .bet-h-p:after{
+  border-top: 6px solid #3e4b82 !important;
+}
+.lottery-wrap .bet-area .bet-c .num .n-p{
+  color: #3e4b82 !important;
+}
+.lottery-wrap .lottery-bet1-footer .btn-bet{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.confirm-wrapper-2 .tit .random{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.last-btn{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  box-shadow: 0 5px 5px rgba(62, 75, 130, .3) !important;
+}
+.team-zhangbian{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  color: white !important;
+}
+.promo-show-wrapper .btn-wrap .btn.btn-join{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.promo-show-wrapper .cont-box .tit .icon-lipin{
+  color: #3e4b82 !important;
+}
+.promo-show-wrapper .cont-box .tit h1{
+  color: #3e4b82 !important;
+}
+.promo-show-wrapper .cont-box .tit span{
+  color: #3e4b82 !important;
+}
+.setColor{
+  color: #3e4b82 !important;
+}
+.safeCenter-wrapper .showSafe{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.message-wrapper .content-message .message-item .mes-hea i.icon-notice{
+  color: #3e4b82 !important;
+}
+.warning-wrapper .bind{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.bankcard-wrapper .addcard span{
+  color: #3e4b82 !important;
+  border: 1px dashed #3e4b82 !important;
+}
+.addcard-wrapper .content .infobox h1{
+  color: #3e4b82 !important;
+}
+.btn.next{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.betdetail-wrapper footer{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.betdetail-wrapper footer .btn-zcxz{
+  color: #3e4b82 !important;
+}
+.message-detail-content .message-detail-item .mes-det-hea .tit i.icon-notice{
+  color: #3e4b82 !important;
+}
+.edit-wrapper .type .vux-label{
+  color: #3e4b82 !important;
+}
+.edit-wrapper .info span{
+  color: #3e4b82 !important;
+}
+.edit-wrapper .replyBox span{
+  color: #3e4b82 !important;
+}
+.edit-wrapper .selectedBox .reply{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.wallet-manage-wrapper .top-area .top-c .top-rig{
+  color: #3e4b82 !important;
+}
+.header.search .vux-search-fixed .weui-search-bar{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.team-bill-record-wrapper .content-wrap .betrecordtable-tab .betrecordtable-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.team-bill-record-wrapper .content-wrap .betrecordtable-tab .vux-tab-ink-bar{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.team-bill-record-wrapper .color-blue{
+  color: #3e4b82 !important;
+}
+.manage-wrapper .team-info .list .info .btn-box button{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.weui-btn_primary{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.member-popup .vux-tab-wrap .vux-tab-container .vux-tab .vux-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+}
+.member-popup .weui-cells .vux-number-round .vux-number-selector-sub svg, .member-popup .weui-cells .vux-number-round .vux-number-selector-plus svg{
+  fill: #3e4b82 !important;
+}
+.member-popup .vux-tab-wrap .vux-tab-container .vux-tab .vux-tab-ink-bar{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.lottery-wrap .lottery-bet1-footer .bet-money{
+  color: #3e4b82 !important;
+}
+.yuanjiaoDialogContent .btn-wrap button{
+  color: #3e4b82 !important;
+}
+.yuanjiaoDialogContent .btn-wrap button.btn-ok{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+  border-color: #3e4b82 !important;
+  color: white !important
+}
+.yuanjiaoDialogContent .rang_wrap .range-quantity{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.member-popup .weui-cells .vux-number-round .vux-number-selector-sub, .member-popup .weui-cells .vux-number-round .vux-number-selector-plus{
+  border: 1px solid #3e4b82 !important;
+}
+.touzhu-bg{ /**投注页面背景颜色*/
+  /* background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important; */
+  background: #fff !important;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab{ /**左边选择框背景颜色*/
+  background: #fff !important;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab .vux-tab-item{ /**左边选择框背景颜色*/
+  background: #fff !important;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab .vux-tab-item.vux-tab-selected{ /**左边选择框选中是的背景颜色*/
+  background: rgba(62, 75, 130, .9) !important;
+}
+.xin-wrapper .xin-bet-box .leftBox{
+  background: #fff !important
+}
+.theme-bg{ 
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.theme-bg-lf{ /**向左渐变*/
+  background: transparent linear-gradient(to left, #3e4b82, #282f49) !important;
+}
+.theme-bg-rg{ /**向右渐变*/
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+/* .check-chip-5{
+  background: url('../cssImages/chip/checkRed/5.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-10{
+  background: url('../cssImages/chip/checkRed/10.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-50{
+  background: url('../cssImages/chip/checkRed/50.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-100{
+  background: url('../cssImages/chip/checkRed/100.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-500{
+  background: url('../cssImages/chip/checkRed/500.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-1000{
+  background: url('../cssImages/chip/checkRed/1000.png') no-repeat !important;
+  background-size: 100% !important;
+} */
+.isSeleThis{
+  color: #3e4b82 !important;
+}
+.seleLine{
+  color: #3e4b82 !important;
+}
+.lottery-wrap .bet-area .bet-c .num .n-p.active{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+  color: #fff !important;
+}
+.lottery-wrap .bet-area .bet-h .bet-h-f .vux-button-group > a.vux-button-group-current{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.touzhu-bg{ /**投注页面背景颜色*/
+  /* background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important; */
+  background: #fff !important;
+}
+.check-bg{ /**设置选中颜色*/
+  background: rgba(62, 75, 130, .2) !important;
+  color: #fff !important;
+}
+.check-bg .fr{
+  color: #282f49;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab{ /**左边选择框背景颜色*/
+  background: #fff !important;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab .vux-tab-item{ /**左边选择框背景颜色*/
+  background: #fff !important;
+}
+.xin-wrapper .xin-bet-box .leftBox .vux-tab .vux-tab-item.vux-tab-selected{ /**左边选择框选中是的背景颜色*/
+  background: rgba(62, 75, 130, .9) !important;
+}
+.theme-font-color{
+  color: #282f49;
+}
+.number-ball-bg{ /**选中时的球形的颜色*/
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+  color: white !important;
+  border: none !important;
+}
+.xin-wrapper .xin-bet-box .leftBox{
+  background: #fff !important
+}
+.theme-bg{ 
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+}
+.theme-bg-lf{ /**向左渐变*/
+  background: transparent linear-gradient(to left, #3e4b82, #282f49) !important;
+}
+.theme-bg-rg{ /**向右渐变*/
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.check-chip-5{
+  background: url('../cssImages/chip/checkPink/5.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-10{
+  background: url('../cssImages/chip/checkPink/10.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-50{
+  background: url('../cssImages/chip/checkPink/50.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-100{
+  background: url('../cssImages/chip/checkPink/100.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-500{
+  background: url('../cssImages/chip/checkPink/500.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.check-chip-1000{
+  background: url('../cssImages/chip/checkPink/1000.png') no-repeat !important;
+  background-size: 100% !important;
+}
+.isSeleThis{
+  color: #3e4b82 !important;
+}
+.seleLine{
+  color: #3e4b82 !important;
+}
+.lottery-wrap .bet-area .bet-c .num .n-p.active{
+  background: transparent linear-gradient(to bottom, #3e4b82, #282f49) !important;
+  color: #fff !important;
+}
+.lottery-wrap .bet-area .bet-h .bet-h-f .vux-button-group > a.vux-button-group-current{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1a-rightIcon{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1a-bannerRight .v1a-qiu{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.kl8-wrapper.lottery-wrap .bet-top .betnum .v1a-k8 span{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1a-outerPoint{
+  border-top: 10px solid ff5f7b !important;
+}
+.v1a-setNum span{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  z-index: 999999;
+}
+/* .v1a-history-red{
+  border: #3e4b82 1px solid !important;
+  color: #3e4b82 !important;
+} */
+.v1a-theme-color{
+  color: #3e4b82 !important;
+}
+.v1a-sfc-theme{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1a-xy28-red{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1a-ssc-red{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1a-backThemeColor{
+  background: transparent #3e4b82 !important;
+}
+.v1a-triangleTop{
+  border-bottom: 10px solid #3e4b82 !important;
+}
+.check-bg .v1-lhc-n01,.check-bg .v1-lhc-n02,.check-bg .v1-lhc-n07,.check-bg .v1-lhc-n08,.check-bg .v1-lhc-n12,
+.check-bg .v1-lhc-n13,.check-bg .v1-lhc-n18,.check-bg .v1-lhc-n19,.check-bg .v1-lhc-n23,.check-bg .v1-lhc-n24,
+.check-bg .v1-lhc-n29,.check-bg .v1-lhc-n30,.check-bg .v1-lhc-n34,.check-bg .v1-lhc-n35,.check-bg .v1-lhc-n40,
+.check-bg .v1-lhc-n45,.check-bg .v1-lhc-n46{ background: #F44336 !important; border: none !important; color: #fff !important;}
+.check-bg .v1-lhc-n03,.check-bg .v1-lhc-n04, .check-bg .v1-lhc-n09,.check-bg .v1-lhc-n10,.check-bg .v1-lhc-n14,
+.check-bg .v1-lhc-n15,.check-bg .v1-lhc-n20, .check-bg .v1-lhc-n25,.check-bg .v1-lhc-n26,.check-bg .v1-lhc-n31,
+.check-bg .v1-lhc-n36,.check-bg .v1-lhc-n37, .check-bg .v1-lhc-n41,.check-bg .v1-lhc-n42,.check-bg .v1-lhc-n47,
+.check-bg .v1-lhc-n48{ background: #2196F3 !important; border: none !important; color: #fff !important;}
+.check-bg .v1-lhc-n05,.check-bg .v1-lhc-n06,.check-bg .v1-lhc-n11,.check-bg .v1-lhc-n16,.check-bg .v1-lhc-n17,
+.check-bg .v1-lhc-n21,.check-bg .v1-lhc-n22,.check-bg .v1-lhc-n27,.check-bg .v1-lhc-n28,.check-bg .v1-lhc-n32,
+.check-bg .v1-lhc-n33,.check-bg .v1-lhc-n38,.check-bg .v1-lhc-n39,.check-bg .v1-lhc-n43,.check-bg .v1-lhc-n44,
+.check-bg .v1-lhc-n49{ background: #20bf27 !important; border: none !important; color: #fff !important;}
+
+.check-bg .v1-xy28-0, .check-bg .v1-xy28-13, .check-bg .v1-xy28-14, .check-bg .v1-xy28-27{background: #bebcbc !important; color: #fff !important}
+.check-bg .v1-xy28-1, .check-bg .v1-xy28-4, .check-bg .v1-xy28-7, .check-bg .v1-xy28-10, .check-bg .v1-xy28-16, .check-bg .v1-xy28-19, .check-bg .v1-xy28-22, .check-bg .v1-xy28-25{background: #01f660 !important; color: #fff !important}
+.check-bg .v1-xy28-2, .check-bg .v1-xy28-5, .check-bg .v1-xy28-8, .check-bg .v1-xy28-11, .check-bg .v1-xy28-17, .check-bg .v1-xy28-20, .check-bg .v1-xy28-23, .check-bg .v1-xy28-26{background: #1c9dfc !important; color: #fff !important}
+.check-bg .v1-xy28-3, .check-bg .v1-xy28-6, .check-bg .v1-xy28-9, .check-bg .v1-xy28-12, .check-bg .v1-xy28-15, .check-bg .v1-xy28-18, .check-bg .v1-xy28-21, .check-bg .v1-xy28-24{background: #e72520 !important; color: #fff !important}
+
+.award-detail-wrapper .bet-detail-list li .xy28{
+  color: #3e4b82 !important;
+}
+.award-detail-wrapper .bet-detail-list li.latest .xy28{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  color: #fff !important;
+}
+.award-detail-wrapper .bet-detail-list li.latest .xy28-p{
+  background: #fff !important;
+  color: #666666 !important;
+}
+#wang:checked + label{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+#qian:checked + label{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+#bai:checked + label{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+#shi:checked + label{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+#ge:checked + label{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.border-left-theme-color{
+  border-top: 1px solid #3e4b82 !important
+}
+.border-right-theme-color{
+  border-right: 1px solid #3e4b82 !important
+}
+.border-top-theme-color{
+  border-top: 1px solid #3e4b82 !important
+}
+.border-bottom-theme-color{
+  border-bottom: 1px solid #3e4b82 !important
+}
+.border-theme-color{
+  border: 1px solid #3e4b82 !important
+}
+.theme-font-color-improtant{
+  color: #3e4b82 !important
+}
+.select-full-bg{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+  color: #fff !important
+}
+.btn-theme-bg{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1an-tryPlay{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1an-messageCon{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1aa-smallBtn{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+span.v1aa-moreFontColor{
+  color: #3e4b82 !important;
+}
+div.v1aa-profitHead{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1an-names span.v1an-namesColor{
+  color:  #3e4b82 !important;
+}
+.v1aa-myGetMoneyNum{
+  color:  #3e4b82 !important;
+}
+.v1aa-totalColor{
+  color:  #3e4b82 !important;
+}
+.v1a-backThemeColor{
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.after-line::after{
+  content: '';
+  width: 110%;
+  height: 5px;
+  background: transparent linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.bet-wrapper .vux-tab .vux-tab-item.vux-tab-selected{
+  color: #00C6FF;
+  border-bottom: 3px solid linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.bet-wrapper .vux-tab-ink-bar{
+  background: linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v1and-bankHead{
+  background: linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.tem-wrapper .vux-tab .vux-tab-item.vux-tab-selected{
+  color: #3e4b82 !important;
+  border-bottom: 3px solid linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.tem-wrapper .vux-tab-ink-bar{
+  background: linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.border-all-color-important{
+  border-color: #3e4b82 !important;
+}
+.bg-opacity-10{
+  background: #3e4b82;
+  color: #fff;
+}
+.team-game-report-wrapper .vux-tab-wrap .vux-tab-container .vux-tab .vux-tab-selected{
+  border-radius: 20px !important;
+  color: #fff !important;
+  height: 100% !important;
+  background: #3e4b82;
+} 
+.tem-wrapper .team-game-report-wrapper .vux-tab-ink-bar{
+  background: transparent !important;
+}
+.tem-wrapper .team-game-report-wrapper .vux-tab-container{
+  border: 1px solid #ddd;
+  border-radius: 40px;
+}
+.v2a-hideOrShowIconDesc{
+  color: #3e4b82;
+}
+.addWXNum{
+  background: linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v2an-addWxSure{
+  background: linear-gradient(to right, #3e4b82, #282f49) !important;
+}
+.v2an-sureSwBtn{
+  background: linear-gradient(to right, #3e4b82, #282f49) !important;
+}
