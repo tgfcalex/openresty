@@ -1,0 +1,29 @@
+version: '3.5'
+networks:
+  net:
+    name: net
+    driver: bridge
+    driver_opts:
+      com.docker.network.enable_ipv6: "false"
+    ipam:
+      driver: default
+      config:
+        - subnet: 10.8.8.0/24
+
+services:
+
+  openresty:
+    image: sppo55/openresty:v2
+    hostname: openresty
+    container_name: openresty
+    restart: always
+    networks:
+      net:
+        ipv4_address: 10.8.8.30
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /var/alex/openresty:/usr/local/openresty/
+      - /var/log/nginx:/var/log/nginx/
+      - /var/alex/ssl:/var/alex/ssl/
