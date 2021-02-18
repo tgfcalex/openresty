@@ -26,5 +26,6 @@ services:
     volumes:
       - /var/alex/openresty/nginx/conf:/usr/local/openresty/nginx/conf/
       - /var/alex/openresty/static:/usr/local/openresty/static/
-      - /var/log/nginx:/var/log/nginx/
+      - /var/alex/openresty/script:/usr/local/openresty/script/
+      - /var/log/nginx:/var/log/nginx/:ro
       - /var/alex/ssl:/var/alex/ssl/
