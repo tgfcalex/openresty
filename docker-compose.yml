@@ -13,7 +13,7 @@ networks:
 services:
 
   openresty:
-    image: sppo55/openresty:v3
+    image: sppo55/openresty:v4
     hostname: openresty
     container_name: openresty
     restart: always
@@ -27,5 +27,5 @@ services:
       - /var/alex/openresty/nginx/conf:/usr/local/openresty/nginx/conf/
       - /var/alex/openresty/static:/usr/local/openresty/static/
       - /var/alex/openresty/script:/usr/local/openresty/script/
-      - /var/log/nginx:/var/log/nginx/:ro
+      - /var/log/nginx:/var/log/nginx/
       - /var/alex/ssl:/var/alex/ssl/
