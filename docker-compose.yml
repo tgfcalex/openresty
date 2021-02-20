@@ -13,7 +13,7 @@ networks:
 services:
 
   openresty:
-    image: sppo55/openresty:v4
+    image: sppo55/openresty:v5
     hostname: openresty
     container_name: openresty
     restart: always
@@ -24,8 +24,9 @@ services:
       - "80:80"
       - "443:443"
     volumes:
-      - /var/alex/openresty/nginx/conf:/usr/local/openresty/nginx/conf/
+      - /etc/localtime:/etc/localtime:ro
+      - /var/alex/openresty/nginx:/usr/local/openresty/nginx
       - /var/alex/openresty/static:/usr/local/openresty/static/
       - /var/alex/openresty/script:/usr/local/openresty/script/
+      - /var/alex/ssl/:/var/alex/ssl/
       - /var/log/nginx:/var/log/nginx/
-      - /var/alex/ssl:/var/alex/ssl/
