@@ -13,7 +13,7 @@ networks:
 services:
 
   openresty:
-    image: sppo55/openresty:v5
+    image: sppo55/openresty:v1
     hostname: openresty
     container_name: openresty
     restart: always
