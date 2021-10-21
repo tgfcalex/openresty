@@ -15,3 +15,4 @@ chown root:root -R /var/alex
 chmod 777 -R /var/log/nginx
 chmod 777 -R /var/git/openresty/alex/openresty/nginx
 docker-compose up -d
+
